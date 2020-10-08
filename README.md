@@ -1,6 +1,6 @@
 NOTE: 
-The code in this repo for my website has only been modified to create my personal website. 
-See below for the original layout!
+The code in this repo has been copied and modified to create my personal website. 
+See below for the original!
 
 # Jekyll UNO
 

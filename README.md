@@ -1,6 +1,6 @@
-# Eshaq Rahmani
+# Jekyll UNO
 
-Eshaq's Portfolio based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
+Jekyll-Uno - a minimal, responsive theme for Jekyll based on the Uno theme for Ghost.
 
 > :warning:
   This theme requires ruby and rubygems installed
@@ -21,13 +21,13 @@ Eshaq's Portfolio based on the [Uno](https://github.com/daleanthony/Uno) theme f
 
 ### Install and Test
 
-1. Download or clone repo `git clone git@github.com:joshgerdes/Eshaq Rahmani.git`
-2. Enter the folder: `cd Eshaq Rahmani/`
-3. If you don't have bundler installed: `gem install bundler`
-3. Install Ruby gems: `bundle install`
-4. Start Jekyll server: `bundle exec jekyll serve --watch`
+1.Download or clone repo git clone git@github.com:joshgerdes/jekyll-uno.git
+2.Enter the folder: cd jekyll-uno/
+3.If you don't have bundler installed: gem install bundler
+4.Install Ruby gems: bundle install
+5.Start Jekyll server: bundle exec jekyll serve --watch
 
-Access via: [http://localhost:4000/Eshaq Rahmani/](http://localhost:4000/Eshaq Rahmani/)
+Access via: http://localhost:4000/jekyll-uno/
 
 ---
 

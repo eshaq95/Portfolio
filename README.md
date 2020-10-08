@@ -33,8 +33,8 @@ Access via: [http://localhost:4000/Eshaq Rahmani/](http://localhost:4000/Eshaq R
 
 ### Demo and Download
 
-[Demo](http://joshgerdes.com)
-[Download](https://github.com/joshgerdes/archive/master.zip)
+[Demo](http://joshgerdes.com/jekyll-uno/)
+[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
 
 ![Jekyll uno - free Jekyll theme](/screenshot.png)
 

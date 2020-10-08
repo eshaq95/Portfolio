@@ -33,10 +33,10 @@ Access via: [http://localhost:4000/Eshaq Rahmani/](http://localhost:4000/Eshaq R
 
 ### Demo and Download
 
-[Demo](http://joshgerdes.com/Eshaq Rahmani/)
-[Download](https://github.com/joshgerdes/Eshaq Rahmani/archive/master.zip)
+[Demo](http://joshgerdes.com)
+[Download](https://github.com/joshgerdes/archive/master.zip)
 
-![Eshaq Rahmani - free Jekyll theme](/screenshot.png)
+![Jekyll uno - free Jekyll theme](/screenshot.png)
 
 ---
 

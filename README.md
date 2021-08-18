@@ -40,16 +40,6 @@ Jekyll-Uno - a minimal, responsive theme for Jekyll based on the Uno theme for G
 
 Access via: http://localhost:4000/jekyll-uno/
 
----
-
-### Demo and Download
-
-[Demo](http://joshgerdes.com/jekyll-uno/)
-[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
-
-![Jekyll uno - free Jekyll theme](/screenshot.png)
-
----
 
 ### Copyright and license
 

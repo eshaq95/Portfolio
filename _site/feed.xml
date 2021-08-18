@@ -3,7 +3,7 @@
   <channel>
     <title>Eshaq Rahmani</title>
     <description>Data Scientist</description>
-    <link>http://localhost:4000/Portfolio/</link>
+    <link>https://eshaq95.github.io/Portfolio/</link>
     <atom:link href="http://localhost:4000/Portfolio/feed.xml" rel="self" type="application/rss+xml" />
     <pubDate>Thu, 08 Oct 2020 15:21:11 +0200</pubDate>
     <lastBuildDate>Thu, 08 Oct 2020 15:21:11 +0200</lastBuildDate>

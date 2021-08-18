@@ -1,6 +1,5 @@
 NOTE: 
 The code in this repo has been copied and modified to create my personal website. 
-See below for the original!
 
 Here is the link to my website:
 

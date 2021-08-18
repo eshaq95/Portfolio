@@ -1,8 +1,8 @@
 ---
-title:  "About myself"
-date:   2016-01-08 15:04:23
+title:  "Welcome to my portfolio!"
+date:   2020-05-09 15:04:23
 categories: [jekyll]
-tags: [jekyll]
+tags: [Tags]
 ---
 
 Hi Im Isak and I am a self-taught Data scientist!

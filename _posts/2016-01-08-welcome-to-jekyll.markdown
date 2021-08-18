@@ -5,7 +5,7 @@ categories: [Portfolio]
 tags: [About myself]
 ---
 
-Hi Im Isak and I am a self-taught Data scientist!
+Hi Im Eshaq and I am an aspiring software engineer!
 
 
 
